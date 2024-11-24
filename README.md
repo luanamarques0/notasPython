@@ -99,4 +99,6 @@ NotasPython/
 
 Feito por **Luana Marques** 
 
-![Logo](https://drive.google.com/file/d/1OZeJ78qrs7nUiGCxgxdnS0blQkdjhnYO/view?usp=sharing)
+![Logo](https://drive.google.com/uc?id=1OZeJ78qrs7nUiGCxgxdnS0blQkdjhnYO)
+
+

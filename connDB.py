@@ -39,7 +39,7 @@ try:
         CREATE TABLE IF NOT EXISTS notes (
             id_notes INT AUTO_INCREMENT PRIMARY KEY,
             id_user INT NOT NULL,
-            date_ DATE NOT NULL DEFAULT CURRENT_DATE,
+            date_ DATE NOT NULL,
             titulo VARCHAR(100),
             body_note VARCHAR(500),
             FOREIGN KEY (id_user) REFERENCES user(id)
